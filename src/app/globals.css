@@ -25,3 +25,12 @@ body {
     text-wrap: balance;
   }
 }
+
+.message-content p {
+  color: white;
+  font-size: 1.2rem;
+}
+
+.message-container * {
+  color: white;
+}
